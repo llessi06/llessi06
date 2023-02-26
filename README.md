@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @llessi06
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning at the Higher Technical College Grieskirchen
 
 <!---
 llessi06/llessi06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
