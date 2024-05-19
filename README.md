@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 Ich bin ein leidenschaftlicher Softwareentwickler mit Erfahrung in der Entwicklung von innovativen und skalierbaren Anwendungen. Ich liebe es, neue Technologien zu erkunden und kreative Lösungen für komplexe Probleme zu finden.
 
-- 🌍 **Ort**: Erferding, Österreich
+- 🌍 **Ort**: Eferding, Österreich
 - 🎓 **Bildung**: Schüler an der HTL Grieskirchen
 - 🧠 **Interessen**: Java, Spring Boot, Docker, Python
 
