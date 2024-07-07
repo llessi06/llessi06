@@ -31,7 +31,7 @@ Ich bin ein leidenschaftlicher Softwareentwickler mit Erfahrung in der Entwicklu
 
 ## 📫 Kontakt
 
-- LinkedIn: [linkedin.com/in/deinusername](https://www.linkedin.com/in/lukas-lesslhumer/)
+- LinkedIn: [Mein LinkedIn Profil](https://www.linkedin.com/in/lukas-lesslhumer/)
 
 ## 🎉 Interessante Fakten
 
