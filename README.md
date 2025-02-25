@@ -26,5 +26,5 @@ Ich bin ein leidenschaftlicher Softwareentwickler mit Erfahrung in der Entwicklu
 
 ## 📈 GitHub-Statistiken
 
-[![Deine GitHub-Statistiken](https://github-stats.lesslhumer.dev/api?username=llessi06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top-Programmiersprachen](https://github-stats.lesslhumer.dev/api/top-langs/?username=llessi06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Deine GitHub-Statistiken](https://github-stats.lesslhumer.dev/?username=llessi06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top-Programmiersprachen](https://github-stats.lesslhumer.dev/top-langs/?username=llessi06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
