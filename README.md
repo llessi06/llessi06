@@ -26,17 +26,5 @@ Ich bin ein leidenschaftlicher Softwareentwickler mit Erfahrung in der Entwicklu
 
 ## 📈 GitHub-Statistiken
 
-[![Deine GitHub-Statistiken](https://github-readme-stats.vercel.app/api?username=llessi06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top-Programmiersprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=llessi06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 📫 Kontakt
-
-- LinkedIn: [Mein LinkedIn Profil](https://www.linkedin.com/in/lukas-lesslhumer/)
-
-## 🎉 Interessante Fakten
-
-- 🌱 Ich lerne gerade Spring Boot.
-
----
-
-⭐️ **Fühle dich frei, meine Repositories anzusehen und mir bei Interesse zu folgen!** ⭐️
+[![Deine GitHub-Statistiken](https://github-stats.lesslhumer.dev/api?username=llessi06&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top-Programmiersprachen](https://github-stats.lesslhumer.dev/api/top-langs/?username=llessi06&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
