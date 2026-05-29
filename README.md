@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my thesis<br>🌱 I’m currently learning Angular
+🌱 I’m currently learning Angular
 
 
 ## 🌐 Socials:
